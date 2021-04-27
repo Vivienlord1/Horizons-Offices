@@ -1,0 +1,41 @@
+.container-fluid{
+    background-color: white;
+}
+
+nav{
+    border: none;
+}
+
+.navbar-header{
+    padding-left: 50px;
+    padding-bottom: ;
+    padding-top: 35px;
+}
+
+.navbar-logo {
+    display: inline;
+    float: left;
+    margin-top;
+}
+
+.thumbnail{
+    height: 400px;
+    width: 330px;
+    padding-right: 20px;
+}
+
+.footer{
+    background-color: navy;
+    margin-top: 50px;
+    width: 100%
+}
+
+.text-center{
+    color: #988F08;
+    font-size: 17px;
+}
+
+h4{
+    counter-reset: #ece926;
+    font-size: 17px;
+}
